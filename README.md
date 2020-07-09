@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Belle Box](https://bellebox.in/) and The Byte Avenue.
+- 🔭 I’m currently working on [Belle Box](https://bellebox.in/), Xpery.io and The Byte Avenue.
 - 🌱 I’m currently learning DevOps.
 - 💬 Ask me about new tech coming up or travel or foooood.
 - 😄 Pronouns: He/Him
