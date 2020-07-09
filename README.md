@@ -2,16 +2,10 @@
 
 
 - 🔭 I’m currently working on [Belle Box](https://bellebox.in/) and The Byte Avenue.
-
-- 🌱 I’m currently learning DevOps
-
-- 💬 Ask me about new tech coming up soon
-
-- 📫 Reach me on: [LinkedIn]()
-
+- 🌱 I’m currently learning DevOps.
+- 💬 Ask me about new tech coming up or travel or foooood.
 - 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: You could find me on any social media playform by r-ush or some P and C of it with _ or -
+- ⚡ Fun fact about me: You could find me anywhere by the username r-ush or some Permutation of it with either _ or -
 
 ### Reach me on:
 - Twitter: [_r_ush_](https://twitter.com/_r_ush_)
