@@ -8,8 +8,14 @@
 - ⚡ Fun fact about me: You could find me anywhere by the username r-ush or some Permutation of it with either _ or -
 
 ### Reach me on:
-- Twitter: <a href='https://twitter.com/_r_ush_'>_r_ush_</a>
-- Instagram: <a href='https://instagram.com/_r_ush_'>_r_ush_</a>
-- LinkedIn: www.linkedin.com/in/aarush-bhat
-- Email: aarush.bhatt@gmail.com
-- Personal website: https://r-ush.tech
+
+<div>
+<a href="https://twitter.com/_r_ush_" target="_blank">
+<img src="https://files.rajchandra.me/images/icons/brand-icons/twitter.svg" class="white-icons text-white m-2" height="25px" width="25px" aria-="true">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aarush-bhat/" target="_blank">
+    <img src="https://files.rajchandra.me/images/icons/brand-icons/linkedin.svg" class="white-icons text-white m-2" height="25px" width="25px" aria-="true">
+</a>
+</div>
+
