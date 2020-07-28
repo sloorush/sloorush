@@ -1,11 +1,10 @@
-### Surpriseeee!
+### Hello Nerds!
 
-<img src='https://i.imgflip.com/4/t625c.jpg'></img>
+<img src='https://i.ibb.co/zXC3kmt/Screenshot-from-2020-07-29-00-19-15.png'></img>
 
-- 🔭 I’m currently working on [Belle Box](https://bellebox.in/), Xpery.io and The Byte Avenue.
-- 🌱 I’m currently learning DevOps.
-- 💬 Ask me about new tech coming up or travel or foooood.
-- ⚡ Fun fact about me: You could find me anywhere by the username r-ush or some Permutation of it with either _ or -
+So, I am a college student mostly, who likes food, travel and tech!
+
+I am currently working on The Box, which is a subscription service based in India, Xpery.io, which is supposed a blogging platform made for people who love to travel! and Khayaali Pulao, which is a brain child of my khayaali pulao, basically a site where everyone can share all their weird ideas anonymously, nobody to judge you, get inspired or be an inspiration! Also working for The Byte Avenue, formerly known as CodePark.
 
 ### Reach me on:
 
