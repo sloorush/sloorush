@@ -1,6 +1,6 @@
 ### Hello Nerds!
 
-<img src='https://i.ibb.co/zXC3kmt/Screenshot-from-2020-07-29-00-19-15.png'></img>
+<img style="width: 100%; height: auto" src='https://i.ibb.co/zXC3kmt/Screenshot-from-2020-07-29-00-19-15.png'></img>
 
 So, I am a college student mostly, who likes food, travel and tech!
 
