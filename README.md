@@ -4,7 +4,7 @@
 
 So, I am a college student mostly, who likes food, travel and tech!
 
-I am currently working on The Box, which is a subscription service based in India, Xpery.io, which is supposed a blogging platform made for people who love to travel! and Khayaali Pulao, which is a brain child of my khayaali pulao, basically a site where everyone can share all their weird ideas anonymously, nobody to judge you, get inspired or be an inspiration! Also working for The Byte Avenue, formerly known as CodePark.
+I am currently working on The Box, which is a subscription service based in India, Xpery.io, which is supposed a blogging platform made for people who love to travel! and <a href="https://khayaalipulao.r-ush.tech/">Khayaali Pulao</a>, which is a brain child of my khayaali pulao, basically a site where everyone can share all their weird ideas anonymously, nobody to judge you, get inspired or be an inspiration! Also working for The Byte Avenue, formerly known as CodePark.
 
 ### Reach me on:
 
