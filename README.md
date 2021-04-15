@@ -4,9 +4,7 @@
 
 So, I am a college student mostly, who likes food, travel and tech!
 
-I am currently working on Freelance Projects.
-
-Currently learning GO, AWS, and Docker.
+Currently learning Golang, Devops and Networking.
 
 ### Reach me on:
 
