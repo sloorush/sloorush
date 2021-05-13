@@ -10,11 +10,11 @@ Currently learning Golang, Devops and Networking.
 
 <div>
 <a href="https://twitter.com/_r_ush_" target="_blank">
-<img src="https://files.rajchandra.me/images/icons/brand-icons/twitter.svg" class="white-icons text-white m-2" height="25px" width="25px" aria-="true">
+Twitter
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aarush-bhat/" target="_blank">
-    <img src="https://files.rajchandra.me/images/icons/brand-icons/linkedin.svg" class="white-icons text-white m-2" height="25px" width="25px" aria-="true">
+    LinkedIn
 </a>
 </div>
 <br/>
