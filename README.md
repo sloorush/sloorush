@@ -1,20 +1,3 @@
-### Hey! 👀
-
-So, I am a college student mostly, who likes food, travel and tech!
-
-Currently learning Golang, Devops and Networking.
-
-### Reach me on:
-
-<div>
-<a href="https://twitter.com/_r_ush_" target="_blank">
-Twitter
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aarush-bhat/" target="_blank">
-    LinkedIn
-</a>
-</div>
-<br/>
+<img src="https://media2.giphy.com/media/4Hb9T1YsHcpJZDAlrr/giphy.gif?cid=790b7611871628f061b11e0a83033e4f4f33ec3f7f3237a3&rid=giphy.gif&ct=g"></img>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=r-ush.r-ush)
