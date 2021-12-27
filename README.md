@@ -1,6 +1,6 @@
 ## :wave: Hello :wave:
 
-<img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp"></img>
+<!-- <img src="https://i.giphy.com/media/dbtDDSvWErdf2/giphy.webp"></img> -->
 
 Hi there! My name is Aarush, on the internet as sloorush and I'm a Computer Science Undergrad.
 
