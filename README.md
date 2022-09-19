@@ -6,7 +6,7 @@ Hi there! My name is Aarush, on the internet as sloorush and I'm a Computer Scie
 
 ### Quick facts 🧩
 
-- Randomly listing some things I like Linux, web, bitcoin, mechanical keyboards, music, photography and F1 🏎️
+- Randomly listing some things i like linux, programming languages, web, bitcoin, mechanical keyboards, music, photography, and F1 🏎️
 - I sometimes blog some stuff I do, check out [blog.sloorush.com](https://blog.sloorush.com/) 🖋️
 - I run a [newsletter](https://slooletter.sloorush.com) called SlooLetter that you should check out! I try to share stuff I read/watch every day about tech with it. 📰
 - GPG: 1EAC62FCE2263A61
